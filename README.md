@@ -1,4 +1,4 @@
-# matrixmods.github.io
+# Matrix Mods
 
 ## Projects
 ### Project Matrix
